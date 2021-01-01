@@ -102,7 +102,7 @@ public class Activity13_2a {
 
     public static void main(String args[]) throws IOException {
         //Prepare the path of excel file
-        String filePath = "C:\\Users\\SureshBillakanti\\eclipse-workspace\\selenium\\sample.xlsx";
+        String filePath = "C:\\Users\\dphakatkar\\eclipse-workspace\\selenium\\sample.xlsx";
 
         Activity13_2a objExcelFile = new Activity13_2a();
 
